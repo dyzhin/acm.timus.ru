@@ -5,6 +5,7 @@ long_list = []
 all = [0, 1, 2]
 ans = 0
 
+
 short_list.append(int(input()))
 long_list.append(input())
 short_list.append(int(input()))
